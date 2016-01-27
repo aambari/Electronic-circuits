@@ -1,0 +1,23 @@
+Circuit: * F:\electronics\LTspiceIV\mycircuits\Awesome 3 - CE BC549 and Tip122 - important fb only AC.asc
+
+WARNING: Less than two connections to node N010.  This node is used by RF.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Jan 28 14:47:04 2016
+Total elapsed time: 0.843 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 50575
+traniter = 50564
+tranpoints = 16633
+accept = 11093
+rejected = 5540
+matrix size = 19
+fillins = 1
+solver = Normal
+Matrix Compiler1: off  [2.4]/2.9/2.8
+Matrix Compiler2: off  [2.5]/2.9/3.2
+
+

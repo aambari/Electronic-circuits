@@ -1,0 +1,26 @@
+Circuit: * F:\electronics\LTspiceIV\mycircuits\Modified Awesome 2 - CE BC549 and Tip122 with FB.asc
+
+WARNING: Node NC_01 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by C1.
+WARNING: Less than two connections to node N005.  This node is used by Q§USED_TIP122.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Jan 28 13:31:34 2016
+Total elapsed time: 0.187 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8055
+traniter = 8024
+tranpoints = 4013
+accept = 2420
+rejected = 1593
+matrix size = 19
+fillins = 0
+solver = Normal
+Matrix Compiler1: 1.19 KB object code size  2.4/2.4/[1.9]
+Matrix Compiler2:     122 opcodes  2.2/[2.3]/3.7
+
+
