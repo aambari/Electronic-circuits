@@ -1,0 +1,24 @@
+Circuit: * F:\electronics\LTspiceIV\mycircuits\Awesome 2 - CE BC549 and Tip122 with FB.asc
+
+WARNING: Less than two connections to node N007.  This node is used by V2.
+WARNING: Less than two connections to node N004.  This node is used by Q§USED_TIP122.
+Direct Newton iteration for .op point succeeded.
+
+Date: Thu Jan 28 14:36:34 2016
+Total elapsed time: 0.078 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 579
+traniter = 548
+tranpoints = 275
+accept = 275
+rejected = 0
+matrix size = 19
+fillins = 6
+solver = Normal
+Matrix Compiler1: 1.44 KB object code size  2.5/2.3/[1.9]
+Matrix Compiler2: off  [2.1]/2.2/3.9
+
+
