@@ -1,0 +1,27 @@
+Circuit: * C:\electronics\LTspiceIV\my_circuits\Long tailed pair.asc
+
+WARNING: Node P001 is floating.
+
+WARNING: Less than two connections to node N015.  This node is used by Q4.
+WARNING: Less than two connections to node N013.  This node is used by R11.
+WARNING: Less than two connections to node N004.  This node is used by Q7.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Feb 15 19:48:26 2016
+Total elapsed time: 1.390 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 153973
+traniter = 153932
+tranpoints = 50978
+accept = 33978
+rejected = 17000
+matrix size = 24
+fillins = 8
+solver = Normal
+Matrix Compiler1: 2.03 KB object code size  0.5/0.2/[0.1]
+Matrix Compiler2: off  [0.2]/0.4/0.3
+
+
