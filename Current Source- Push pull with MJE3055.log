@@ -1,0 +1,26 @@
+Circuit: * C:\electronics\LTspiceIV\my_circuits\Current Source- Push pull with MJE3055.asc
+
+WARNING: Node NC_01 is floating.
+
+WARNING: Less than two connections to node N006.  This node is used by Q2.
+WARNING: Less than two connections to node NC_01.  This node is used by C2-CLEANS-NOISE-IN-INPUT.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Feb 10 16:06:48 2016
+Total elapsed time: 0.330 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4093
+traniter = 4054
+tranpoints = 2027
+accept = 2026
+rejected = 1
+matrix size = 23
+fillins = 12
+solver = Normal
+Matrix Compiler1: 2.01 KB object code size  0.5/0.3/[0.2]
+Matrix Compiler2: off  [0.2]/0.4/0.4
+
+

@@ -1,0 +1,25 @@
+Circuit: * C:\electronics\LTspiceIV\my_circuits\JC1969-modified.asc
+
+WARNING: Node NC_01 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by C4.
+Direct Newton iteration for .op point succeeded.
+
+Date: Wed Feb 03 17:23:31 2016
+Total elapsed time: 4.023 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 200044
+traniter = 200034
+tranpoints = 100018
+accept = 100018
+rejected = 0
+matrix size = 25
+fillins = 34
+solver = Normal
+Matrix Compiler1: 3.88 KB object code size  0.7/0.4/[0.2]
+Matrix Compiler2: 2.70 KB object code size  0.3/0.3/[0.3]
+
+

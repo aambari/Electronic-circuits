@@ -1,0 +1,29 @@
+Circuit: * C:\electronics\LTspiceIV\my_circuits\Trying LTP with Works well 25V actual values - Push pull without bypass caps without diodes and no Tip122.asc
+
+WARNING: Node N006 is floating.
+WARNING: Node N012 is floating.
+
+WARNING: Less than two connections to node N006.  This node is used by C1.
+WARNING: Less than two connections to node N012.  This node is used by C5.
+Direct Newton iteration for .op point succeeded.
+.fourier quantity "V(out)" not pressent in data.
+
+
+Date: Sun Jan 31 15:36:20 2016
+Total elapsed time: 0.186 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 16033
+traniter = 16024
+tranpoints = 8013
+accept = 4820
+rejected = 3193
+matrix size = 23
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.94 KB object code size  0.4/0.2/[0.2]
+Matrix Compiler2: off  [0.2]/0.3/0.2
+
+

@@ -1,0 +1,29 @@
+Circuit: * C:\electronics\LTspiceIV\my_circuits\Changing to high resitance value for input imped -Works well 25V actual values - Push pull without bypass caps without diodes and no Tip122.asc
+
+WARNING: Node NC_01 is floating.
+WARNING: Node N010 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by C1.
+WARNING: Less than two connections to node N010.  This node is used by C5.
+Direct Newton iteration for .op point succeeded.
+.fourier quantity "V(out)" not pressent in data.
+
+
+Date: Tue Feb 02 15:34:28 2016
+Total elapsed time: 0.117 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8040
+traniter = 8024
+tranpoints = 4013
+accept = 2420
+rejected = 1593
+matrix size = 21
+fillins = 8
+solver = Normal
+Matrix Compiler1: 1.75 KB object code size  0.4/0.3/[0.1]
+Matrix Compiler2: 1.75 KB object code size  0.3/0.2/[0.2]
+
+

@@ -1,0 +1,25 @@
+Circuit: * C:\electronics\LTspiceIV\my_circuits\Feedback test - CE BC549 Tip122 Push Pull FB no bypass caps - 2 - implemented sound good.asc
+
+WARNING: Node N009 is floating.
+
+WARNING: Less than two connections to node N009.  This node is used by C5.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Feb 01 19:37:49 2016
+Total elapsed time: 0.257 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 8041
+traniter = 8027
+tranpoints = 4013
+accept = 2420
+rejected = 1593
+matrix size = 18
+fillins = 14
+solver = Normal
+Matrix Compiler1: 1.96 KB object code size  0.4/0.3/[0.1]
+Matrix Compiler2: off  [0.1]/0.2/0.2
+
+
